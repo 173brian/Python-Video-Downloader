@@ -9,3 +9,6 @@ This is the user interface for the program, once called by Program.py it will cr
 
 ## YTVideoDownloader.py
 This is the backend for the GUI that makes the download process functional. This uses pytube and some os functions to provide the ability to download videos from the internet (requires internet access), manipulate filetypes, and download relevant information for the desired outcome. Provides functionality for the Highest Quality video available (HQMP4), the Lowest Quality video available (LQMP4), and mp3 downloads from the link that the GUI is provided with.
+
+### Code Walkthrough Available:
+https://youtu.be/MHpOcRPc5zc
